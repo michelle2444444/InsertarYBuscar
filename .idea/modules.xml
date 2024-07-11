@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IYB/IYB.iml" filepath="$PROJECT_DIR$/IYB/IYB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/InsertarYBuscar.iml" filepath="$PROJECT_DIR$/.idea/InsertarYBuscar.iml" />
+    </modules>
+  </component>
+</project>
